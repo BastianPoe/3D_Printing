@@ -6,4 +6,4 @@ This is a stand for the Oral-B Smartguide.
 ![Photo](photo.jpg)
 
 ## Disclaimer
-Trademark "Oral-B" belongs to their respective owners and is used here for reference only.
+Trademarks "Oral-B" and "Smartguide" belong to their respective owners and are used here for reference only.
