@@ -7,5 +7,8 @@ Find more information here:
 * [OctoPrint PSU Control](https://github.com/kantlivelong/OctoPrint-PSUControl)
 * [8-Kanal Relais Modul 5V/230V Optokoppler 8-Channel Relay Arduino Raspberry Pi](https://smile.amazon.de/dp/B00AEIDWXK/ref=pe_3044161_189395811_TE_3p_dp_1)
 
+## Images
+![Rendering](rendering.png)
+
 ## Disclaimer
 230~V are dangerous. Please only fiddle around with a relais card if you know exactly what you are doing.
